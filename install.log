@@ -1,8 +1,0 @@
-[16:18:46 2025-03-25] FETCHING Version 2.39.5
-[16:18:46 2025-03-25] DOWNLOADING https://github.com/spicetify/cli/releases/download/v2.39.5/spicetify-2.39.5-darwin-arm64.tar.gz
-[16:18:48 2025-03-25] EXTRACTING /Users/pogus-mac/.spicetify/spicetify.tar.gz
-[16:18:48 2025-03-25] SETTING EXECUTABLE PERMISSIONS TO /Users/pogus-mac/.spicetify/spicetify
-[16:18:48 2025-03-25] REMOVING /Users/pogus-mac/.spicetify/spicetify.tar.gz
-[16:18:48 2025-03-25] spicetify path already set in /Users/pogus-mac/.zshrc, continuing...
-[16:18:48 2025-03-25] spicetify v2.39.5 was installed successfully to /Users/pogus-mac/.spicetify
-[16:18:48 2025-03-25] Run 'spicetify --help' to get started
