@@ -1,9 +1,9 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import Chatpage from './components/Chatpage.vue'
 </script>
 
 <template>
-  <HelloWorld/>
+  <Chatpage/>
 </template>
 
 <style scoped>
